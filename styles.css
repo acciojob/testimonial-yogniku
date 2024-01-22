@@ -8,12 +8,13 @@
         .testimonial-container {
             background-color: #f5f5f5;
             padding: 20px;
+			color:black;
         }
         .testimonial {
             padding: 10px;
             border: 1px solid #ccc;
             background-color: #fff;
-            margin-bottom: 10px;
+            margin-bottom: 5px;
         }
 
         .testimonial-text {
